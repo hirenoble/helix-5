@@ -2,3 +2,9 @@ content: https://github.com/hirenoble/helix-5.git#master
 
 # defines the default code repository
 code: https://github.com/ahirenoble/helix-5.git#master
+strains:
+  default:
+    content:
+      owner: hirenoble
+      repo: helix-5
+      ref: master
