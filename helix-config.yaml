@@ -5,4 +5,4 @@ strains:
     content:
       owner: hirenoble
       repo: helix-5
-      ref: master
+      ref: e150fab47ca1df49ab0a4a0d289663b04775f577
