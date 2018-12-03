@@ -18,7 +18,7 @@
 
 # Helix - helix-5
 
-It works! helix-5 is up and running.
+It works! helix-5 is up and running and walking!
 
 ## What's next?
 
