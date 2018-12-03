@@ -1,4 +1,4 @@
-content: https://github.com/hirenoble/helix-5.git
+content: https://github.com/hirenoble/helix-5.git#master
 
 # defines the default code repository
-code: https://github.com/ahirenoble/helix-5.git
+code: https://github.com/ahirenoble/helix-5.git#master
